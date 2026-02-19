@@ -77,8 +77,5 @@ The scraper collects structured information for every book across all categories
 
 ## ⚙️ Installation
 
-Clone the repository:
 
-```bash
-git clone https://github.com/YOUR_USERNAME/books-scraper-sqlite.git
-cd books-scraper-sqlite
+
